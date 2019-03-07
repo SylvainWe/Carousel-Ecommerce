@@ -1,0 +1,31 @@
+body {
+    background-color: #ECD1CC !important;
+}
+
+img {
+	height: 250px;
+}
+
+#titre {
+    color: #6B433A;
+    font-family: The Quick;
+}
+
+.card {
+    background-color: #C9ABA5 !important;
+    border-style: none !important;
+    font-family: The Quick;
+    
+}
+
+.card { transition: all .2s ease-in-out; }
+.card:hover { transform: scale(1.05); }
+
+h4 {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #421E17 !important;
+    border-style: none !important;
+}
